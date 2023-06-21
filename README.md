@@ -35,7 +35,7 @@ O Focus Timer é um projeto focado para os estudos, onde você pode cronometrar 
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/Ch2kcE2FKmojMTn8Kkdlxs/Calend%C3%A1rio-de-Jogos-/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/YmFXHCfmJgOyXPYeYYkNuu/Explorer-Stage-05-Projeto-01-(Copy)?type=design). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
