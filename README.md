@@ -16,9 +16,9 @@
 </p>
 
 <br>
-<p align="center">
-![Logo](https://github.com/Lucashfranco/FocusTimer/blob/main/focus.jpg).
-</p>
+
+![Logo](https://github.com/Lucashfranco/FocusTimer/blob/main/focus.jpg)
+
 
 ## 🚀 Tecnologias
 
